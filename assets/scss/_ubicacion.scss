@@ -1,0 +1,20 @@
+div.mapa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 5px;
+    background-color:beige;
+
+    
+}
+.fondoUbi{
+    background-image: url(../img/fondo\ 2.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

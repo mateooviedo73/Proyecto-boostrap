@@ -17,4 +17,9 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: center;
+}
+
+btn {
+  background-color: #EBF0E9;
+  
 }/*# sourceMappingURL=style.css.map */
