@@ -21,5 +21,34 @@ nav {
 
 btn {
   background-color: #EBF0E9;
+  padding: 5px;
+border-radius: 5px ;
   
-}/*# sourceMappingURL=style.css.map */
+}
+input:focus{
+  width: 200px;
+  border: 5px solid black;
+}
+div.mapa{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 5px;
+ 
+
+  
+}
+.fondoUbi{
+  background-image: url(../img/r&M\ Fondo.jpg);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+
+}
+
+/*# sourceMappingURL=style.css.map */

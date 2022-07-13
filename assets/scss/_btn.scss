@@ -1,4 +1,13 @@
-$btn:background-color: #EBF0E9;
+$btn:(color: #EBF0E9;
+    
+
+)
+.btn{
+background-color: map-get($btn ,color);
+padding: 5px;
+border-radius: 5px ;
+}
+
 
     
     
